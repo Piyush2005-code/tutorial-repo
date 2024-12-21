@@ -6,3 +6,4 @@ ecwu7vecd<br>
 
 Well, I just got to know that <br> statement just acts like "\n" statement, oops
 \<\b\r\> maybe, shit...I don't know HTML<br>
+Well I learned something from the above line that in HTML syntax also "\" is used as an escape sequence to print the keyword characters.<br>
